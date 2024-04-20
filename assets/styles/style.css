@@ -3331,3 +3331,6 @@ button:focus {
   height: 100%;
 }
 /*# sourceMappingURL=style.css.map */
+.linear-gradient {
+  background: var(--color-gradient-text);
+}
